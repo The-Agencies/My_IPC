@@ -1,7 +1,6 @@
 library(tidyverse)
 library(readxl)
 library(fitdistrplus)
-#library(Sanofi.Colors)
 library(hrbrthemes)
 library(viridis)
 library(forcats)
